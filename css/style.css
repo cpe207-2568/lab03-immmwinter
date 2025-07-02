@@ -1,0 +1,47 @@
+p {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+a {
+  color: black;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.bighead {
+  font-size: 40px;
+  font-style: bold;
+  color: black;
+}
+
+.smallhead {
+  font-size: 30px;
+  font-style: bold;
+  color: black;
+}
+
+.fontsize30 {
+  font-size: 25px;
+}
+
+.smoochfont {
+  font-family: "Smooch Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight 100;
+}
+
+.box {
+  border: 2px solid gray;
+  margin: 0 auto 20px auto;
+  padding: 20px;
+  width: 30%;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+
+
